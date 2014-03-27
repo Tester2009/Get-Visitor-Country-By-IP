@@ -1,8 +1,6 @@
 Get-Visitor-Country-By-IP
 =========================
 
-get visitor country by ip :D
-============================
 
 Hello . Im Tester2009 .
 Download index.php from this repo . https://raw.githubusercontent.com/alepcat1710/Get-Visitor-Country-By-IP/master/index.php
