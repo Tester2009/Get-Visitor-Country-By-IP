@@ -37,7 +37,7 @@
     }
 
     $details = ip_details($iphere);
-    $getcountry = $details->country;  // => US
+    $getcountry = $details->country;  // => MY
 
     if ($getcountry == "MY")
     {
