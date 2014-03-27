@@ -1,6 +1,6 @@
 <?php
 /*
-*  Proudly Coded by Tester2009 . 
+*  Proudly Coded by Muhammad Aliff Muazzam (Tester2009) . 
 *  <3 Cat xD
 *  https://www.facebook.com/Tester2009
 *  https://github.com/alepcat1710
