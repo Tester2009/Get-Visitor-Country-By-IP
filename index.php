@@ -1,9 +1,12 @@
 <?php
 /*
-*  Coded by Tester2009 . 
+*  Proudly Coded by Tester2009 . 
+*  <3 Cat xD
 *  https://www.facebook.com/Tester2009
-*  Do not change copyright, mastah !
+*  https://github.com/alepcat1710
+*  Feel free to use . Do not change copyright, mastah !
 */
+
 
 // Get ip .
 	function userip()
